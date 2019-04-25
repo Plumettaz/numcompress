@@ -1,0 +1,17 @@
+{
+  "name": "numcompress",
+  "version": "0.1.0",
+  "description": "Compress and decompress numerical series",
+  "main": "index.js",
+  "author": "Damien Plumettaz <damien.plumettaz@plumettaz.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "mocha": "^6.1.4"
+  },
+  "dependencies": {
+    "chai": "^4.2.0"
+  }
+}
